@@ -7,7 +7,6 @@ high-level operations for the API endpoints.
 """
 
 from typing import List, Optional
-from datetime import datetime
 
 from .database import db
 from .models import (
